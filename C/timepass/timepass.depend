@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1548652258 source:d:\jayendra\timepass\main.c
+	<stdio.h>
+	<stdlib.h>
+
